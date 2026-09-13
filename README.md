@@ -107,7 +107,6 @@
 
   Acknowledgments
 
-  - Baeldung tutorials for Java backend development
   - Java Brains YouTube channel for architecture concepts
   - University coursework on web services and APIs
   - Open-source leave management systems for inspiration
